@@ -1,0 +1,129 @@
+# English translations for PROJECT.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-04-29 16:12+0300\n"
+"PO-Revision-Date: 2026-04-29 16:12+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: /home/damir/python/vlad-fast-api-2/backend/apps/auth/email.py:25
+msgid "FORGOT_PASSWORD_SUBJECT_TEXT"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/apps/auth/email.py:47
+msgid "VERIFICATION_SUBJECT_TEXT"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/apps/auth/messages.py:11
+msgid "EMAIL_ALREADY_EXISTS"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/apps/auth/messages.py:12
+msgid "INVALID_CREDENTIALS"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/apps/auth/messages.py:13
+#: /home/damir/python/vlad-fast-api-2/backend/common/auth/messages.py:16
+msgid "USER_NOT_FOUND"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/apps/auth/messages.py:14
+#: /home/damir/python/vlad-fast-api-2/backend/common/auth/messages.py:12
+msgid "JWT_INVALID"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/apps/auth/templates/auth/reset_password.html:3
+msgid "PASSWORD_RESET_TITLE"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/apps/auth/templates/auth/reset_password.html:4
+#: /home/damir/python/vlad-fast-api-2/backend/apps/auth/templates/auth/verification.html:4
+msgid "CLICK_BUTTON_BELOW_TEXT"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/apps/auth/templates/auth/reset_password.html:14
+#: /home/damir/python/vlad-fast-api-2/backend/apps/auth/templates/auth/verification.html:14
+msgid "CONFIRM_BUTTON_TEXT"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/apps/auth/templates/auth/verification.html:3
+msgid "ACCOUNT_CONFIRMATION_TITLE"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/auth/messages.py:11
+msgid "JWT_EXPIRED"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/auth/messages.py:13
+msgid "JWT_SESSION_EXPIRED"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/auth/messages.py:14
+msgid "JWT_WRONG_TYPE"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/auth/messages.py:17
+msgid "USER_INACTIVE"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/auth/messages.py:18
+msgid "USER_NOT_VERIFIED"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/auth/messages.py:19
+msgid "USER_NOT_SUPERUSER"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/responce/messages.py:16
+#: /home/damir/python/vlad-fast-api-2/backend/common/responce/messages.py:17
+msgid "SUCCESS"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/responce/messages.py:18
+msgid "CREATED"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/responce/messages.py:21
+msgid "ERROR"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/responce/messages.py:22
+msgid "UNAUTHORIZED"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/responce/messages.py:23
+msgid "FORBIDDEN"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/responce/messages.py:24
+msgid "CSRF_FORBIDDEN"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/responce/messages.py:25
+msgid "NOT_FOUND"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/responce/messages.py:26
+msgid "CONFLICT"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/responce/messages.py:28
+msgid "VALIDATION_ERROR"
+msgstr ""
+
+#: /home/damir/python/vlad-fast-api-2/backend/common/responce/messages.py:32
+msgid "INTERNAL_ERROR"
+msgstr ""
+

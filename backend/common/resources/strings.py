@@ -1,0 +1,15 @@
+JWT_TOKEN_TYPE_ERROR = "Expected token type '{}'"
+JWT_INVALID_ERROR = "Token is invalid or corrupted"
+JWT_EXPIRED_ERROR = "Token has expired"
+JWT_SESSION_EXPIRED_ERROR = "Session not found or expired"
+JWT_SESSION_REUSED = "Session token already used. All sessions have been terminated."
+
+REDIS_CONNECTED = "Redis connection to db={} successfully established"
+REDIS_CLOSED = "Redis connection to db={} successfully closed"
+REDIS_TIMEOUT = "Redis connection timeout"
+REDIS_AUTH_ERROR = "Redis authentication error during connection"
+REDIS_UNKNOWN_ERROR = "Unknown Redis connection error: {}"
+SEND_MESSAGE_ERROR = "Error while sending message: {}"
+SEND_MESSAGE_SUCCESS = "Message with subject '{}' successfully sent: {}"
+
+REPEAT_PASWWORD_ERROR = "Passwords do not match"
